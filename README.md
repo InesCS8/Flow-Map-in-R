@@ -5,4 +5,4 @@ Dataset -> https://apps.fomento.gob.es/BDOTLE/visorBDpop.aspx?i=281
 
 Eina emprada per realitzar el gràfic -> https://www.r-project.org/
 
-![Flow Map - Valencia freight transport](https://user-images.githubusercontent.com/104026026/164069209-4faa6abb-1c0e-495e-80a5-089a6a89f696.png)
+![Valencian Freight Road Transport](https://user-images.githubusercontent.com/104026026/164069604-d1d80295-8ba8-4e4b-bb94-0fe8a949feb4.svg)
